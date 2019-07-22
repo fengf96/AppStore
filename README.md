@@ -6,7 +6,7 @@
 - 封装 LruCache 和 DiskLruCache 缓存
 - 采用 Jsoup 抓取网站数据
 - 采用反射和 AIDL 获取应用缓存
-- Glide 加载图片
+- Glide-加载图片
 #### 实现情况截图
 <img src="https://github.com/yishengma/AppStore/blob/master/AppImage/6.jpg" width="300" hegiht="700" align=left />
 <img src="https://github.com/yishengma/AppStore/blob/master/AppImage/5.jpg" width="300" hegiht="700" align=center />
